@@ -14,7 +14,7 @@ In our district dashboard, we first distinguished each individual district with 
 
 To effectively communicate this information, we employed a variety of visualization tools, including regular text tables, bar graphs, and line graphs. One notable feature is a table designed with a spectrum of hues, reflecting the percentage distribution of a specific grade within each district. 
 
-This color-coded representation offers an intuitive and quick understanding of the grade distribution across districts. By employing these different visualization techniques, our district dashboard aims to provide a comprehensive and accessible overview of key educational metrics for each district./n
+This color-coded representation offers an intuitive and quick understanding of the grade distribution across districts. By employing these different visualization techniques, our district dashboard aims to provide a comprehensive and accessible overview of key educational metrics for each district.
 
 ![image](https://github.com/jubuyer/nyc-public-school-dashboard/assets/66185881/58345d07-f4c5-48e2-8b34-50a28f6d80a9)
 
@@ -27,6 +27,7 @@ In our final dashboard, we emphasized the pivotal role of socioeconomic factors 
 
 
 
-Demographic information for each school is presented alongside the map, providing users with in-depth analytical capabilities for nuanced interpretations. Additionally, we incorporated a supplementary visualization detailing school graduation and dropout rates spanning from 2012 to 2018. To enhance user accessibility and address space constraints, we introduced functionality allowing users to filter data by both ZIP code and school, thereby facilitating access to school demographic information and graduation rates. The extensive filtering options offer users a comprehensive snapshot of the average student success rate, coupled with a breakdown of demographics and economic status in the area at a glance./n
+Demographic information for each school is presented alongside the map, providing users with in-depth analytical capabilities for nuanced interpretations. Additionally, we incorporated a supplementary visualization detailing school graduation and dropout rates spanning from 2012 to 2018. To enhance user accessibility and address space constraints, we introduced functionality allowing users to filter data by both ZIP code and school, thereby facilitating access to school demographic information and graduation rates. The extensive filtering options offer users a comprehensive snapshot of the average student success rate, coupled with a breakdown of demographics and economic status in the area at a glance.
+
 ![image](https://github.com/jubuyer/nyc-public-school-dashboard/assets/66185881/73c3c9a7-8877-43c6-8c96-8d1571da7797)
 
